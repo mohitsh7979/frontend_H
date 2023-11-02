@@ -1,0 +1,33 @@
+.a {
+    color: red;
+    background-color: yellow;
+    border: 2px solid black;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: sans-serif;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    border: 2px dashed black;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+#m {
+    color: blue;
+}
+
+.b {
+
+    border: 2px solid black;
+    font-size: 30px;
+    background-color: black;
+    color: white;
+    padding: 50px;
+    text-align: justify;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+    word-spacing: 5px;
+    line-height: 50px;
+    text-shadow: 2px 2px 2px red;
+}
